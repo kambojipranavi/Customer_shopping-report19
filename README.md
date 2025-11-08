@@ -8,7 +8,7 @@ This repository contains a project focused on analyzing customer behavior. The w
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard]([Link-to-your-dashboard-screenshot.png])
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48b0c7c5-4eba-48dd-a009-1b9df843cfe2" />
 
 
 ## 📈 Project Overview
